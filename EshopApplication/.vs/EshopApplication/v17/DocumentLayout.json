@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EshopApp\\EshopApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\models\\domain\\productinshopingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\models\\domain\\productinshopingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\models\\domain\\shopingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\models\\domain\\shopingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\models\\identify\\eshopaplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\models\\identify\\eshopaplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\data\\migrations\\20240314143240_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\data\\migrations\\20240314143240_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\data\\migrations\\20240314222404_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\data\\migrations\\20240314222404_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|c:\\eshopapp\\eshopapplication\\eshop.web\\data\\migrations\\20240314173437_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB452D0A-C1F3-4FCA-B04B-4763C0FA7EBE}|eshop.web\\eshop.web.csproj|solutionrelative:eshop.web\\data\\migrations\\20240314173437_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "eshop.web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "eshop.web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T11:47:54.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eshop.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eshop.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T00:34:58.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "eshop.web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:07:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "eshop.web\\Controllers\\HomeController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:04:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Program.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Program.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Program.cs",
+              "RelativeToolTip": "eshop.web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:45:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "eshop.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "eshop.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T23:13:02.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Models\\Domain\\Product.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\Domain\\Product.cs",
+              "RelativeToolTip": "eshop.web\\Models\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:54:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240314222404_updatemodels.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\20240314222404_updatemodels.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Data\\Migrations\\20240314222404_updatemodels.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\20240314222404_updatemodels.cs",
+              "RelativeToolTip": "eshop.web\\Data\\Migrations\\20240314222404_updatemodels.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:24:04.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "eshop.web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:46:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductInShopingcard.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\Domain\\ProductInShopingcard.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Models\\Domain\\ProductInShopingcard.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\Domain\\ProductInShopingcard.cs",
+              "RelativeToolTip": "eshop.web\\Models\\Domain\\ProductInShopingcard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:07:24.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\appsettings.json",
+              "RelativeDocumentMoniker": "eshop.web\\appsettings.json",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\appsettings.json",
+              "RelativeToolTip": "eshop.web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T13:26:59.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopingCard.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\Domain\\ShopingCard.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Models\\Domain\\ShopingCard.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\Domain\\ShopingCard.cs",
+              "RelativeToolTip": "eshop.web\\Models\\Domain\\ShopingCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:59:50.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240314173437_SecondMigration.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\20240314173437_SecondMigration.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Data\\Migrations\\20240314173437_SecondMigration.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\20240314173437_SecondMigration.cs",
+              "RelativeToolTip": "eshop.web\\Data\\Migrations\\20240314173437_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:34:37.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EshopAplicationUser.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\identify\\EshopAplicationUser.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Models\\identify\\EshopAplicationUser.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Models\\identify\\EshopAplicationUser.cs",
+              "RelativeToolTip": "eshop.web\\Models\\identify\\EshopAplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:37:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240314143240_initial.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\20240314143240_initial.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Data\\Migrations\\20240314143240_initial.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\20240314143240_initial.cs",
+              "RelativeToolTip": "eshop.web\\Data\\Migrations\\20240314143240_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:32:41.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "eshop.web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\EshopApp\\EshopApplication\\eshop.web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "eshop.web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T00:18:34.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
